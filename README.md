@@ -18,4 +18,4 @@ Boilerplate to setup quickly with Django, PostgreSQL and Docker.
 
 
 # Contact
-Saif - [LinkedIn](https://www.linkedin/in/saifxd7)
+Saif - [LinkedIn](https://www.linkedin.com/in/saifxd7)
